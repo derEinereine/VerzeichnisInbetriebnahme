@@ -1,0 +1,4 @@
+I:Der Desktophintergrund kann als Diashow eingestellt werden.
+II:Der Ordner kann dafür ausgewählt werden.
+III:Konfrontation schafft Befähigung.
+IV:Viele Experimente für eine guten Überblick.

@@ -1,0 +1,10 @@
+Beleuchtung{Direkte, Indirekte},{Warme, Kalte}
+Pausenzeiten
+Wechsel von Medien
+Laut lesen
+Tonband(Records{Audacity}
+Karteikarten
+Ordner
+Ablage
+Videos
+Lüften
